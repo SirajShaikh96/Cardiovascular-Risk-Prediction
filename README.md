@@ -62,6 +62,6 @@
 
 # 📋 Conclusion
 
-**In this project we found out that age is the biggest factor of having developing cardio vascular risk, and all other factors may increase the cardio vascular risk at that age.**
+**In this project we found out that age is the biggest factor of developing cardio vascular risk, and all other factors may increase the cardio vascular risk at that age.**
 **In this dataset male who smokes are more tha the man who do not smoke and their are less female who smokes than the female who do not smokes. According to overall data male smoke's more.**
 
