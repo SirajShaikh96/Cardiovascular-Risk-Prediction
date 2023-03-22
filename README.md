@@ -52,6 +52,8 @@
 
 # 📋 Model Performance
 
+# #In this project detecting 1 is very important. So we'll only focus on the mertics of 1
+
 ![mp](https://user-images.githubusercontent.com/116551866/226862472-bbc2828b-b454-4cf2-bc82-a8a1425a6e5a.PNG)
 
 **IN this project we are taking Recall as final metric b'coz classifying a person whether or not have cardio vascular risk within 10 years, recall is important.**
