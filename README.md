@@ -52,7 +52,7 @@
 
 # 📋 Model Performance
 
-# #In this project detecting 1 is very important. So we'll only focus on the mertics of 1
+# Within 10 years who will have cardiovascular risk is denoted by 1. In this project detecting 1 is very important. So we'll only focus on the mertics of 1
 
 ![mp](https://user-images.githubusercontent.com/116551866/226862472-bbc2828b-b454-4cf2-bc82-a8a1425a6e5a.PNG)
 
